@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "body-parser": "^1.17.2",
-    "cf-deployment-tracker-client": "0.1.3",
+    "cf-deployment-tracker-client": "0.1.4",
     "cfenv": "^1.0.4",
     "cookie-parser": "^1.4.3",
     "dotenv": "^4.0.0",
@@ -58,12 +58,12 @@
     "object.pick": "^1.3.0",
     "passport": "^0.4.0",
     "passport-twitter": "^1.0.4",
-    "personality-consumption-preferences": "^0.0.4",
+    "personality-consumption-preferences": "^0.0.5",
     "personality-text-summary": "^2.1.6",
     "personality-trait-descriptions": "^2.0.8",
     "personality-trait-info": "^3.0.4",
     "twitter": "^1.7.1",
-    "watson-developer-cloud": "^2.39.0"
+    "watson-developer-cloud": "^4.0.1"
   },
   "devDependencies": {
     "codecov": "^2.3.0",
