@@ -63,7 +63,7 @@
     "personality-trait-descriptions": "^2.0.8",
     "personality-trait-info": "^3.0.4",
     "twitter": "^1.7.1",
-    "watson-developer-cloud": "^2.39.0"
+    "watson-developer-cloud": "^4.0.1"
   },
   "devDependencies": {
     "codecov": "^2.3.0",
