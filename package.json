@@ -48,7 +48,7 @@
     "cookie-parser": "^1.4.3",
     "dotenv": "^4.0.0",
     "ejs": "^2.5.7",
-    "express": "^4.15.4",
+    "express": "^4.21.0",
     "express-rate-limit": "^2.9.0",
     "express-secure-only": "^0.2.1",
     "express-session": "^1.15.5",
