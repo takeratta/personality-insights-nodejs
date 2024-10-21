@@ -58,7 +58,7 @@
     "object.pick": "^1.3.0",
     "passport": "^0.4.0",
     "passport-twitter": "^1.0.4",
-    "personality-consumption-preferences": "^0.0.4",
+    "personality-consumption-preferences": "^0.0.5",
     "personality-text-summary": "^2.1.6",
     "personality-trait-descriptions": "^2.0.8",
     "personality-trait-info": "^3.0.4",
